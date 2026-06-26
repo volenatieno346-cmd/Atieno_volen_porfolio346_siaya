@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+.hero-img {
+    max-width: 320px;
+    width: 280px;
+    height: 280px;
+    object-fit: cover;
+}
+
+/* Intro paragraph width used on About page */
+.intro-text {
+    max-width: 720px;
+}
+
+.feature-icon {
+    width: 56px;
+    height: 56px;
+    border-radius: 0.75rem;
+    background-color: #f1f5f9;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feature-icon img {
+    width: 28px;
+    height: 28px;
+}
